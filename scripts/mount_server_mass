@@ -1,0 +1,2 @@
+sudo mount -t cifs //192.168.1.2/mass /mnt/mass -o user=pslavkin,uid=pslavkin,gid=pslavkin
+#sudo mount -t cifs //dci.ddns.net/mass /mnt/mass2 -o user=pslavkin,uid=pslavkin,gid=pslavkin

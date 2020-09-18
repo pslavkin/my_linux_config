@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/mnt/data/jobs/all/bootloader/v1/src/firmware'
+let g:netrw_dirhist_2='/mnt/data/jobs/all/bootloader/v1/src/firmware/punto_c'
+let g:netrw_dirhist_3='/mnt/data/jobs/all/bootloader/v1/src/firmware/punto_h'
+let g:netrw_dirhist_4='/mnt/data/jobs/all/bootloader/v1/src/firmware'
+let g:netrw_dirhist_5='/mnt/data/jobs/all/bootloader/v1/src/firmware/punto_h'
+let g:netrw_dirhist_6='/mnt/data/jobs/all/bootloader/v1/src/firmware/punto_c'
+let g:netrw_dirhist_7='/mnt/data/jobs/all/bootloader/v1/src/firmware'
+let g:netrw_dirhist_8='/mnt/data/jobs/all/bootloader/v1/src/firmware/punto_c'
+let g:netrw_dirhist_9='/mnt/data/jobs/all/bootloader/v1/src/firmware/punto_h'

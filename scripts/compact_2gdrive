@@ -1,0 +1,12 @@
+#tar cvzf $1.tar.xz $1
+#mkdir $1_split
+mv $1.tar.xz $1_split -v
+cd $1_split
+gpg -vv -c $1.tar.xz
+split  -a 3 -d -b $2 --verbose $1.tar.xz.gpg $1_
+rm $1.tar.xz 		-v
+rm $1.tar.xz.gpg 	-v
+for f in *\_*; do
+	gdrive upload --parent 1UX9nX_3Zl0Fd5Bw4COaOOxMj_zd996_L --chunksize 1048576 --delete $f ;
+done;
+

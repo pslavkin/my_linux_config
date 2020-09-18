@@ -1,0 +1,2 @@
+sudo mount -t cifs //192.168.1.2/data /mnt/data -o user=pslavkin,uid=pslavkin
+#sudo nount -t cifs //dci.ddns.net/data /mnt/data -o user=pslavkin,uid=pslavkin

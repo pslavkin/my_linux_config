@@ -1,0 +1,2 @@
+sudo mount -t cifs //192.168.1.2/data /mnt/wc_data -o user=pslavkin,uid=pslavkin
+sudo mount -t cifs //192.168.1.2/share /mnt/wc_shared -o user=pslavkin,uid=pslavkin

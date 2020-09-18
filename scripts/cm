@@ -1,0 +1,1 @@
+find $1/* -mtime -0.04 -print0 | xargs -0 -IA123A mv -v A123A $2

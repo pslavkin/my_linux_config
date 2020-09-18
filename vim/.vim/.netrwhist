@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/mnt/data/jobs/all/noto/electroestimulador/v1/src/punto_c'
+let g:netrw_dirhist_2='/mnt/data/jobs/all/piscina_natural/v1/source'
+let g:netrw_dirhist_3='/mnt/data/jobs/all/piscina_natural/v1/source/punto_c'
+let g:netrw_dirhist_4='/mnt/data/jobs/all/piscina_natural/v1/source/punto_pic'
+let g:netrw_dirhist_5='/home/pslavkin'
+let g:netrw_dirhist_6='/home/pslavkin/.vim/plugin'

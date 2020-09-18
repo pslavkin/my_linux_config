@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/pslavkin/cavi/tri/punto_h'
+let g:netrw_dirhist_2='/home/pslavkin/cavi/tri'
+let g:netrw_dirhist_3='/home/pslavkin/cavi/tri/punto_c'
+let g:netrw_dirhist_4='/home/pslavkin/cavi/tri/punto_pic'
+let g:netrw_dirhist_5='/home/pslavkin/cavi/tri/punto_tools'
+let g:netrw_dirhist_6='/home/pslavkin/cavi/tri/punto_h'
+let g:netrw_dirhist_7='/home/pslavkin/cavi/tri'
+let g:netrw_dirhist_8='/home/pslavkin/cavi'
+let g:netrw_dirhist_9='/home/pslavkin/stepper_tui/octave'

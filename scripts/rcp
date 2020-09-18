@@ -1,0 +1,2 @@
+rsync --partial --progress --append --rsh=ssh -r -h $1 $2 
+

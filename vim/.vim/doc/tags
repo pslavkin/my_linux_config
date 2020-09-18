@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+CenterText	db2vim/textutils.py	/^def CenterText(lines, width):$/;"	f
+FillParagraphs	db2vim/textutils.py	/^def FillParagraphs(text, width=80, justify=0):$/;"	f
+FormatTable	db2vim/textutils.py	/^def FormatTable(tableText, ROW_SPACE=2, COL_SPACE=3, COL_WIDTH=1000,$/;"	f
+GetTextFromElementNode	db2vim/domutils.py	/^def GetTextFromElementNode(element, childNamePattern):$/;"	f
+GetTextFromElement	db2vim/domutils.py	/^def GetTextFromElement(element):$/;"	f
+GetText	db2vim/domutils.py	/^def GetText(nodelist):$/;"	f
+IndentParagraphs	db2vim/textutils.py	/^def IndentParagraphs(text, width=80, indent=0, justify=0):$/;"	f
+JustifyLine	db2vim/textutils.py	/^def JustifyLine(line, width):$/;"	f
+OffsetText	db2vim/textutils.py	/^def OffsetText(text, indent):$/;"	f
+RightJustify	db2vim/textutils.py	/^def RightJustify(lines, width):$/;"	f
+TextWidth	db2vim/textutils.py	/^def TextWidth(text):$/;"	f
+VertCatString	db2vim/textutils.py	/^def VertCatString(string1, width1, string2):$/;"	f

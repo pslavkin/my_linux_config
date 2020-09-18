@@ -1,0 +1,1 @@
+sshfs -p49160 pyj.ddns.net:/mnt/mass /mnt/mass

@@ -1,0 +1,1 @@
+ssh -X pyj.ddns.net -p49160 -v

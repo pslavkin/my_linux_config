@@ -1,0 +1,12 @@
+mountpoint -q /mnt/sd
+if [ $? == 0 ]
+then
+   echo "unmounting..."
+   sudo umount /mnt/sd
+   echo "unmounted"
+else 
+   echo "mounting..."
+   sudo mount /dev/sdb1 /mnt/sd
+  # sudo mount /dev/mmcblk0p2 /mnt/sd
+   echo "mounted"
+fi

@@ -1,0 +1,1 @@
+vi ~/.pal/ps.pal

@@ -1,0 +1,2 @@
+syn keyword CTagsFunction GetTextFromElementNode GetTextFromElement VertCatString JustifyLine OffsetText CenterText FormatTable FillParagraphs TextWidth GetText IndentParagraphs RightJustify
+

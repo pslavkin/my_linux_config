@@ -1,0 +1,100 @@
+search_inc Cl
+rename Clockify_Summary_Report.gif
+rename ea_2020_0806_08_2020-06_14_2020.pdf
+rename ea_2020-06-01-to-2020-06-30.pdf
+rename Clockify_Summary_Report_2020_06_08_2020-06_14_2020.pdf
+rename Clockify_Summary_Report_06_08_2020-06_14_2020.pdf
+search_inc 3d
+rename engineered-arts_3d1.png
+rename engineered_arts_3d2.png
+rename engineered-arts2.png
+rename engineered_arts3.png
+rename engineered_arts1.png
+search_inc engi
+search_inc eng
+rename engineered_arts2.png
+rename rot3d33.png
+rename rot3d34.png
+rename rot3d35.png
+shell
+rename rot3d01.png
+rename rot3d02.png
+rename rot3d03.png
+rename rot3d04.png
+rename rot3d05.png
+rename rot3d06.png
+rename rot3d07.png
+rename rot3d08.png
+rename rot3d09.png
+search_inc oei
+search_inc codi
+rename codility_palladium_certificate.png
+open_with 
+search_inc nana
+search_inc gif
+search_inc mse
+search_inc lib
+search_inc sym
+touch
+copy
+search_inc caspr
+rename rusia1.jpeg
+rename rusia2.jpeg
+--show-only-dirs
+open_with vim
+rename origina_pocket_dts
+search_in
+search_inc
+cd /opt/linux_kernel/arch/arm/boot/dts/
+search_inc pocket
+rename am335x-pocketbeagle.dts
+rename am335x-pocketbeagle_spi_slave.dts
+search_inc plugg
+search_inc spell
+search_inc ingo
+search_inc syn
+search_inc nr
+search_inc pl
+search_inc ju
+search_inc nnn
+paste
+cut
+paste 
+
+search_inc .vim
+rename aro1.jpg
+rename aro2.jpg
+rename aro3.jpg
+rename aro4.jpg
+rename aro5.jpg
+rename aro6.jpg
+delete
+rename aro.tex
+rename 11_05_x40.jpeg
+open_with
+rename 01_11_05_x40.jpeg
+rename 02_15_05_x40.jpeg
+rename #1-11_05_x40.jpeg
+rename n2-15_05_x40.jpeg
+rename n1-11_05_x40.jpeg
+rename n3-22_05_X40.jpeg
+rename n4-27_05_x40.jpeg
+rename n5-10_06_x30.jpeg
+delete 
+rename n6-18_06_x20.jpeg
+open_with 1
+rename n7-22_06_x30.jpeg
+rename n8-30_06_x40.jpeg
+rename n9_27_07_x20.jpeg
+rename n10-21_08_x27.jpeg
+rename n01-11_05_x40.jpeg
+rename n02-15_05_x40.jpeg
+rename n03-22_05_X40.jpeg
+rename n04-27_05_x40.jpeg
+rename n05-10_06_x30.jpeg
+rename n06-18_06_x20.jpeg
+rename n07-22_06_x30.jpeg
+rename n08-30_06_x40.jpeg
+rename n09_27_07_x20.jpeg
+search_inc stm
+rename stm32f429-linux-builder
